@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const pages = {
         "Home": {
             title: "Welcome to CubeClass!",
-            text: `Welcome to CubeClass! Whether you're just starting out or aiming for Sub X, we’ve got you covered with easy-to-follow guides and helpful resources. Our site is regularly updated, so be sure to check back for fresh content! If you enjoy the lessons, please visit my <a href="https://www.youtube.com/channel/UC5rTdixb8Z2sVbpusB_YacQ" target="_blank" class="custom-link">YouTube channel</a> and consider subscribing to support my work. Thank you for your support, and never stop cubing!`,
+            text: `Welcome to CubeClass! Whether you're just starting out or trying to improve, we’ve got you covered with easy-to-follow guides and helpful resources. Our site is regularly updated, so be sure to check back for fresh content! If you enjoy the lessons, please visit my <a href="https://www.youtube.com/channel/UC5rTdixb8Z2sVbpusB_YacQ" target="_blank" class="custom-link">YouTube channel</a> and consider subscribing to support my work. Thank you for your support, and never stop cubing!`,
         },
         "Beginner's Method": {
             title: "Beginner's Method",
